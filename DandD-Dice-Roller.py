@@ -1,3 +1,5 @@
+#! /usr/local/bin/python3
+
 #DandD Dice Roller
 #
 #Rather than brand yourself a nerd use this python based
